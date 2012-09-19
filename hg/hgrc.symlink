@@ -9,6 +9,8 @@ hgext.hgk =
 reviewboard = /usr/local/share/mercurial-reviewboard
 histedit = 
 purge =
+hgext.convert =
+mq =
 [reviewboard]
 server = http://rb.darkhorse.com/
 target_groups = devs

@@ -1,0 +1,15 @@
+[ui]
+username = Oskar Stephens <oskars@darkhorse.com>
+[diff]
+git = 1
+[extensions]
+hgext.color = 
+rebase =
+hgext.hgk =
+reviewboard = /usr/local/share/mercurial-reviewboard
+histedit = 
+purge =
+[reviewboard]
+server = http://rb.darkhorse.com/
+target_groups = devs
+launch_webbrowser = true

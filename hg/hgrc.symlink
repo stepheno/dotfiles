@@ -11,6 +11,8 @@ histedit =
 purge =
 hgext.convert =
 mq =
+hgext.bookmarks = 
+hggit = 
 [reviewboard]
 server = http://rb.darkhorse.com/
 target_groups = devs

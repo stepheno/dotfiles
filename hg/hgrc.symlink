@@ -13,6 +13,7 @@ hgext.convert =
 mq =
 hgext.bookmarks = 
 hggit = 
+graphlog =
 [reviewboard]
 server = http://rb.darkhorse.com/
 target_groups = devs
